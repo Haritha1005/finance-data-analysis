@@ -2,7 +2,7 @@
 
 This repository presents my **end-to-end project** on monitoring **Private Equity (PE) funds**, where I transformed raw financial data into structured insights using **SQL, Excel, and Tableau**.  
 
-The objective was to analyze **cash flows, contributions, distributions, and fund performance metrics (IRR, MOIC, TVPI, DPI, RVPI)** and present them through **interactive dashboards** for investors and fund managers.  
+The objective was to analyze private equity cash flows, contributions, and distributions, and evaluate key fund performance metrics (IRR and TVPI). These insights were presented through an interactive Tableau dashboard featuring J-Curve analysis, fund-level KPIs, and comparative performance views for investors and fund managers.  
 
 ---
 
