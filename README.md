@@ -68,7 +68,7 @@ The final stage was to develop an **interactive Tableau dashboard** featuring:
 * **Ranking of funds** by performance and peer comparison
 * Filters for **sector, vintage year, and investment stage**
 
-🔗 Explore my dashboards on **[Tableau Public]https://public.tableau.com/app/profile/haritha1005/viz/PrivateEquityPortfolioDashboard/PEDashboard**
+🔗 Explore my dashboards on **[Tableau Public](https://public.tableau.com/app/profile/haritha1005/viz/PrivateEquityPortfolioDashboard/PEDashboard)**
 
 ---
 
