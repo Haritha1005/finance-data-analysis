@@ -68,7 +68,7 @@ The final stage was to develop an **interactive Tableau dashboard** featuring:
 * **Ranking of funds** by performance and peer comparison
 * Filters for **sector, vintage year, and investment stage**
 
-🔗 Explore my dashboards on **[Tableau Public](https://public.tableau.com/app/profile/haritha1005/vizzes)**
+🔗 Explore my dashboards on **[Tableau Public]https://public.tableau.com/app/profile/haritha1005/viz/PrivateEquityPortfolioDashboard/PEDashboard**
 
 ---
 
@@ -76,15 +76,16 @@ The final stage was to develop an **interactive Tableau dashboard** featuring:
 
 ```
 finance_data_analysis/
-│
-├── sql_queries/            # SQL scripts for table creation & transformations
-├── sql_output/             # Exported CSVs from SQL
-├── tableau_dashboard/      # Tableau workbook & snapshots
-├── docs/                   # Notes & workflow documentation
-└── README.md               # Storytelling project overview
-```
+│── Private_equity_monitoring/ # Project-level folder (organization)
+│── data/ # Raw and processed datasets
+│── sql_queries/ # SQL scripts for table creation & transformations
+│── sql_outputs/ # Exported CSV outputs from SQL
+│── tableau_outputs/ # Tableau workbook snapshots
+│── output_screenshots/ # SQL output screenshots
+│── LICENSE # License file
+│── README.md # Project overview & documentation
 
----
+```
 
 ## 🛠 Tools & Skills
 
